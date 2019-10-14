@@ -3,7 +3,7 @@
     background-color: #1f1f20;
     display: flex;
     justify-content: center;
-    padding: 110px 0;
+    padding: 130px 0;
 
 }
 
@@ -79,14 +79,9 @@ h1 {
         align-items: center;
     }
 }
-@media screen and (max-width: 600px) {
-    .container {
-        width: 100%;
-    }
-}
 
-@media screen and (max-width: 600px) {
-    .photo {
+@media screen and (max-width: 1128px) {
+    .image {
         width: 100%;
     }
 }
